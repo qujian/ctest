@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 Window
 create_simple_window(Display* display, int width, int height, int x, int y)
 {
